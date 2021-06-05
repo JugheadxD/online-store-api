@@ -5,6 +5,16 @@
     "price": 45600
   },
   {
+    "id_product": 856,
+    "product_name": "Геймпад",
+    "price": 10000
+  },
+  {
+    "id_product": 856,
+    "product_name": "Клавиатура",
+    "price": 4000
+  },
+  {
     "id_product": 456,
     "product_name": "Мышка",
     "price": 1000
